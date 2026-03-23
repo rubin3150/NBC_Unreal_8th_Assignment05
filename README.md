@@ -1,3 +1,2 @@
 # NBC_Unreal_8th_Assignment05
-
-![완료 영상]https://github.com/rubin3150/NBC_Unreal_8th_Assignment05/issues/2#issuecomment-4108203928
+![완료 영상](https://github.com/user-attachments/assets/dfb7fb84-6ba6-4bbb-87ae-322c7afd6075)
